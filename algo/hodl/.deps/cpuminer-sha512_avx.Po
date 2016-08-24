@@ -1,0 +1,4 @@
+algo/hodl/cpuminer-sha512_avx.o: algo/hodl/sha512_avx.c \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
