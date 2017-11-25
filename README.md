@@ -1,4 +1,4 @@
-This project is forked by Jay D Dee.
+This project is forked by Jay D Dee, Mark Munson, Patrick Arthur.
 
 Updated for v3.3.2 Windows support.
 
